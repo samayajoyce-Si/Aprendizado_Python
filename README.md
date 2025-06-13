@@ -1,19 +1,19 @@
-# Aprendizado_Python
-Repositório com meus estudos iniciais em Python./Repository with my initial studies in Python.
-Este é meu repositório pessoal para acompanhar meu progresso no aprendizado de programação com Python.
+# 🐍 Learning Python
 
-## Sobre mim
+This is my personal repository to track my progress learning how to program in Python.
 
-🎓 Estudante de Sistemas de Informação na UFF  
-🌱 Iniciando minha jornada com programação (usando Thonny)  
-💡 Interesses: narrativas, jogos, tecnologia criativa  
-✈️ Sonho: estudar e trabalhar com tecnologia no Canadá
+## About me
 
-## Conteúdo do repositório
+🎓 Information Systems student at UFF – Brazil  
+🌱 Beginning my programming journey (using Thonny)  
+💡 Interests: storytelling, games, creative technology  
+✈️ Dream: study and work with tech in Canada
 
-- Códigos simples de prática (ex: hello world, calculadora)
-- Exercícios de lógica
-- Anotações e testes
-- Projetos futuros
+## Repository contents
 
-> “Aprender devagar também é aprender.” 🌱
+- Simple practice codes (e.g., hello world, calculator)
+- Logic exercises
+- Notes and experiments
+- Future projects
+
+> “Learning slowly is still learning.” 🌱
